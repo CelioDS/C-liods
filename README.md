@@ -15,7 +15,7 @@
  
 <div> 
  </a>
-  <a href="https://www.instagram.com/celio.thug" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/celio.thug" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%28785?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
  	
  
   <a href = "mailto:celio01t@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%212206?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
