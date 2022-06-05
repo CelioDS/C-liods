@@ -15,9 +15,8 @@
  
 <div> 
  </a>
-  <a href="https://www.instagram.com/celio.thug" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%28785?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+  <a href="https://www.instagram.com/celio.thug" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23337?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
- 
   <a href = "mailto:celio01t@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%212206?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/c%C3%A9lio-da-silva-3b20131b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
