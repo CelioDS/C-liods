@@ -1,4 +1,4 @@
-# Celio
+# Célio
 <div align="center">
   <a href="https://github.com/CelioDS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celiods&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,6 +20,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
   <a href="https://www.linkedin.com/in/c%C3%A9lio-da-silva-3b20131b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="tel:19989058345" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%11337?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/celiods/Celiodas/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
