@@ -1,4 +1,11 @@
-# Célio
+## Olá, eu sou Célio!
+
+### Sobre mim
+
+- Atualmente, estou estudando Desenvolvimento Web e programação em geral.
+- Meus interesses incluem tecnologia, esportes, e música.
+
+
 <div align="center">
   <a href="https://github.com/celiods">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Celiods&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
