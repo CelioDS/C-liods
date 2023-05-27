@@ -5,7 +5,6 @@
 - Sou formado em Análise e Desenvolvimento de Sistemas.
 - Estou fazendo Pos-Graduação em Ciências de Dados e Inteligência Artificial.
 - Atualmente, estou estudando Desenvolvimento Web e programação em geral.
-- Meus interesses incluem tecnologia, esportes, e música.
 
 <div align="center">
   <a href="https://github.com/celiods">
