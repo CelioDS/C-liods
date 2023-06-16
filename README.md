@@ -32,7 +32,7 @@
 
   <a href = "mailto:celio01t@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23378?style=for-the-badge&logo=Gmail&logoColor=darkred" target="_blank">
   <a href="https://www.linkedin.com/in/c%C3%A9lio-da-silva-3b20131b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=darkblue" target="_blank"></a> 
-      <a href="https://multiversion.tech" target="_blank"><img src="https://img.shields.io/badge/-portfolio-555?style=for-the-badge&logo=whatsapp&logoColor=yellow" target="_blank"></a> 
+      <a href="https://celiotech.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-555?style=for-the-badge&logo=whatsapp&logoColor=yellow" target="_blank"></a> 
     
     
      
